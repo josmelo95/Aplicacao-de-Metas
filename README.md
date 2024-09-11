@@ -1,6 +1,6 @@
 ## Aplicativo de Gerenciamento de Metas
 
-Este aplicativo, desenvolvido em JavaScript, oferece uma interface de linha de comando intuitiva para auxiliar na organização e acompanhamento de suas metas.
+Este aplicativo, desenvolvido em JavaScript durante a NLW Pocket da Rocketseat, oferece uma interface de linha de comando intuitiva para auxiliar na organização e acompanhamento de suas metas.
 
 **Funcionalidades:**
 
